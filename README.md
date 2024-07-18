@@ -1,4 +1,5 @@
-![Uploading whizzy1.png…]()
+![whizzy1](https://github.com/user-attachments/assets/35a1de87-1b90-4025-b35f-a0d6614cedcf)
+
 
 # Hey-Whizzy-Admin-Website
 [Hey Whizzy](https://github.com/Hir0su/Hey-Whizzy)'s Admin website Repository
