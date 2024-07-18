@@ -1,3 +1,5 @@
+![Uploading whizzy1.png…]()
+
 # Hey-Whizzy-Admin-Website
 [Hey Whizzy](https://github.com/Hir0su/Hey-Whizzy)'s Admin website Repository
 
